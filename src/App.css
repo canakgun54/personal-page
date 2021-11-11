@@ -1,0 +1,35 @@
+@font-face {
+  font-family: 'Raleway';
+  src: local('MochiyPopPOne'), url(./fonts/Raleway-VariableFont_wght.ttf);
+}
+
+.comments-text {
+  font-family: 'Raleway';
+}
+
+.about-header {
+  font-family: 'Raleway';
+  text-align: center;
+}
+
+.aboutme-header {
+  font-family: 'Raleway';
+  color: white;
+  text-align: start;
+}
+
+.aboutme-header-italic {
+  font-style: italic;
+}
+
+
+.footer-text {
+  text-decoration: none;
+  color: white;
+  display: flex;
+  font-family: 'Raleway';
+}
+
+.footer-text:hover{
+  color:gray;
+}
